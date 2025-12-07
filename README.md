@@ -1,11 +1,12 @@
-#chockfury
+# ChockFury
 
 Este site é dedicado ao universo gamer, trazendo artigos, tutoriais e análises sobre periféricos como mouses, teclados, headsets e outros acessórios essenciais para melhorar sua experiência de jogo.
+
 ## 🚀 Tecnologias usadas
 - HTML
 - CSS
 - JavaScript
-   
+
 ## 📁 Estrutura do projeto
 - `index.html` – Página principal
 - `style.css` – Estilos do site
